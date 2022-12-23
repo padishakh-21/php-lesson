@@ -1,5 +1,10 @@
 <?php
-$str = 'abcde';
-$last = strlen($str) - 1;
+
+if ('3' === 3) {
+    echo '+';
+} else {
+    echo '-';
+}
+
 
 
